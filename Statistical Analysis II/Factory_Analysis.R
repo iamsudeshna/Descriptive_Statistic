@@ -5,7 +5,7 @@ library("dplyr")
 library("combinat")  
 setwd("C://Users//Sudeshna Kundu")
 print(getwd())
-data<-read.csv("SA1_Group_1.csv")
+data<-read.csv("SA2_Factory_Analysis.csv")
 
 #==================================== Confidence Interval ========================================
 
